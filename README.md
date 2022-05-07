@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SafiaAmmari
+- 👀 I’m interested in leaning to code!!
+- 🌱 I’m currently learning Java and I want to lean Python aswell
